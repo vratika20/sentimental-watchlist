@@ -1,0 +1,3 @@
+com/sentinel/watchlist/service/DeltaCalculatorTest.class
+com/sentinel/watchlist/service/SnapshotComparisonServiceTest.class
+com/sentinel/watchlist/service/VolatilityServiceTest.class
